@@ -1,0 +1,16 @@
+body {
+    background-image: url("content/фон.jpg");
+    background-size: 100%;
+}
+#Megumin {
+    text-align: center;
+    margin-top: 1%;
+    height: 467px;
+}
+#MainPanel{
+    text-align: center;
+    height: 80px;
+}
+#ghost {
+    height: 10000px;
+}
