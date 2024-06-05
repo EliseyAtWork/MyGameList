@@ -5,11 +5,11 @@ body {
 #Megumin {
     text-align: center;
     margin-top: 1%;
-    height: 467px;
+    size: 100%;
 }
 #MainPanel{
     text-align: center;
-    height: 80px;
+    size: 100%;
 }
 #ghost {
     height: 10000px;
