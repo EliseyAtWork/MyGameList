@@ -1,15 +1,12 @@
 body {
     background-image: url("content/фон.jpg");
-    background-size: 100%;
 }
 #Megumin {
     text-align: center;
     margin-top: 1%;
-    size: 100%;
 }
 #MainPanel{
     text-align: center;
-    size: 100%;
 }
 #ghost {
     height: 10000px;
