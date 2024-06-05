@@ -1,0 +1,23 @@
+body {
+    background-image: url("content/KonosubaNightBackground01.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#Megumin {
+    text-align: center;
+    margin-top: 1%;
+}
+#MainPanel{
+    text-align: center;
+}
+#Element {
+    height: 160px;
+    width: 830px;
+    margin: auto;
+    background-image: url("content/ElementFrame.png");
+}
+#ghost {
+    height: 10000px;
+    width: 1889px;
+}
