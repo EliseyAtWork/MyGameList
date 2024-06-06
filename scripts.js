@@ -1,4 +1,4 @@
-var meguminRef = document.getElementById("MeguminImg");
+const meguminRef = document.getElementById("MeguminImg");
 
 meguminRef.onclick = function() {
     var currentImg = meguminRef.getAttribute("src");
